@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="sudoku_title">Sudoku</string>
+    <string name="choose_mode_label">Choose Mode:</string>
+    <string name="easy_difficulty">Easy</string>
+    <string name="medium_difficulty">Medium</string>
+    <string name="hard_difficulty">Hard!</string>
+    <string name="clear_button">Clear</string>
+    <string name="game_solved_message">Congratulations! You solved it!</string>
+</resources>
